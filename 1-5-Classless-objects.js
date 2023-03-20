@@ -1,4 +1,5 @@
 /**
+Module 1 Lab 5:
 Write a function, deepComp, that will compare two objects given as arguments (deep comparison).
 Compare only properties (ignore methods), and consider the possibility of nesting (any number of levels).
 
